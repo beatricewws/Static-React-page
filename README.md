@@ -1,3 +1,22 @@
+# Key learnings
+- review styling in css
+- display:block (occupied whole line)
+- display:inline (
+- utilise flexbox (display: flex)
+     - flex-direction: column/row
+     - justify-content: space-between, space-around, center, flex-start, flex-end
+    
+- margin: 0(top,bottom), auto(left,right)
+- padding: 3px (inside the area)
+- border: 1px solid black;
+- border-radius: 9px; (round edges)
+- font weight: bold
+- text-align: center
+- width: 100%
+- height: vh
+- align items
+- adding space between items
+
 # co4144df193d6c34c9bf25b4c
 
 Quick start:
