@@ -1,7 +1,7 @@
 # Key learnings
 - review styling in css
 - display:block (occupied whole line)
-- display:inline (
+- display:inline 
 - utilise flexbox (display: flex)
      - flex-direction: column/row
      - justify-content: space-between, space-around, center, flex-start, flex-end
@@ -12,6 +12,9 @@
 - border-radius: 9px; (round edges)
 - font weight: bold
 - text-align: center
+- text-shadow: 2px 2px #ff0000
+- text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
+- text-shadow: 2px 5px 5px red
 - width: 100%
 - height: vh
 - align items
